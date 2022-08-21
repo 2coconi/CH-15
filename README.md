@@ -1,5 +1,5 @@
 # Retirement_Planning
-This project is aim to build a robo advisor to get get investment portfolio recommendations for retirement.
+This project is aim to build a robo advisor to get get investment portfolio recommendations for retirement
 
 * Step 1: Configure the initial robo advisor
 * Step 2: Build and test the robo advisor
